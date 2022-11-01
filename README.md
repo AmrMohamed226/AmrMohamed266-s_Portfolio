@@ -41,7 +41,7 @@
 <p align="center">
   <img src="images/dr_4.png" alt="" width="200"/>
   <img src="images/dr_5.png" alt="" width="200"/>
-  <img src="images/dr_6.png" alt="" width="200"/>
+  <img src="images/dr_6.png" alt="" width="220"/>
 </p>
 
 # [5.Sentiment Classification for Restaurant Reviews:](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews)
