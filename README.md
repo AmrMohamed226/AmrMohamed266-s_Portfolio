@@ -40,7 +40,7 @@
 </p>
 <p align="center">
   <img src="images/dr_4.png" alt="" width="200"/>
-  <img src="images/dr_5.png" alt="" width="210"/>
+  <img src="images/dr_5.png" alt="" width="198"/>
   <img src="images/dr_6.png" alt="" width="220"/>
 </p>
 
