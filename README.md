@@ -57,16 +57,12 @@
 - Investigated the features (words) highest contributing to the model preddictive power for model interpretability.
 
 <p align="center">
-  <img src="images/sent1.png" alt="" width="400"/>
-</p>
-<p align="center">
-  <img src="images/sen2.png" alt="" width="300"/>
+  <img src="images/sent1.png" alt="" width="300"/>
+  <img src="images/sent2.png" alt="" width="280"/>
 </p>
 <p align="center">
   <img src="images/sent3.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/sent4.png" alt="" width="250"/>
+  <img src="images/sent4.png" alt="" width="280"/>
 </p>
 
 # [6.Adult-salary prediction and Random Forest investigation:](https://github.com/AmrMohamed226/Adult-salary-prediction-and-Random-Forest-investigation) 
@@ -147,9 +143,6 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
   <img src="images/dw1.png" alt="" width="600"/>
 </p>
 <p align="center">
-  <img src="images/dw3.png" alt="" heith="400" width="600"/>
-</p>
-<p align="center">
   <img src="images/dw4.png" alt="" width="600"/>
 </p>
 
@@ -162,9 +155,6 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
     - Visualizing the learned features.
 <p align="center">
   <img src="images/vehic1.png" alt="" heith="400" width="600"/>
-</p>
-<p align="center">
-  <img src="images/vehic2.png" alt="" width="600"/>
 </p>
 
 # [15.Dialogue system and Question answering system:](https://github.com/AmrMohamed226/Dialogue-system-and-Question-answering-system)
