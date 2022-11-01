@@ -28,9 +28,6 @@
 - Implemented IBM model-1 for Statistical Machine Translation was coded to calculate word allignment probabilities between from English to French Language corpuses. 
 
 - Implemented a decoding technique to decode the text back from French to English.
-<p align="center">
-  <img src="images/NLP_MT.png" alt="" width="600"/>
-</p>
 
 # [4.Dating Website Profiles Analysis with Dimensionality Reduction and Clustering:](https://github.com/AmrMohamed226/Dating-website-profiles-analysis-with-Dimensionality-reduction-and-Clustering) 
 - Used a dataset of an mythical dating application was used to perform the different techniques of Dimensionality Reduction
