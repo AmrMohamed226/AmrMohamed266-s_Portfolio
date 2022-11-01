@@ -1,5 +1,4 @@
 # Welcome to Amr Mohamed's Portfolio
-<<<<<<< HEAD
 # [1.Statistical Case Study on Learners Engagements in MOOCs:](https://github.com/AmrMohamed226/Statistical-Case-Study-on-Learners-Engagements-in-MOOCs)
 - Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. 
 - Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
@@ -10,28 +9,13 @@
   <img src="images/survival_analysis.png" alt="" width="600"/>
 </p>
 
-=======
-# [1.Statistical Case Study on Learners Engagements in MOOCs]():
-Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
-<p align="center">
-  <img src="images/survival_analysis.png" alt="survival analysis" width="600"/>
-</p>
-# [2.Social Networks Analysis for French Higher Education System](): 
->>>>>>> 3f62140010398a1175e70c612ec9976747fbc04b
-
 # [2.Social Networks Analysis for French Higher Education System:](https://github.com/AmrMohamed226/Social-Networks-Analysis-for-French-Higher-Education-System)
 - Applied several Social Networks Analysis techniques such as edgelists, community detection, and the different centrality measures to analyze the social networks in the French higher education systems.
 <p align="center">
-  <img src="images/sna_edgelist.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/sna_cd.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/sna_strength.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/sna_betweeness.png" alt="" width="300"/>
+  <img src="images/sna_edgelist.png" alt="" width="150"/>
+  <img src="images/sna_cd.png" alt="" width="150"/>
+  <img src="images/sna_betweeness.png" alt="" width="150"/>
+  <img src="images/sna_strength.png" alt="" width="150"/>
 </p>
 
 # [3.NLP and Machine Translation Systems:](https://github.com/AmrMohamed226/NLP-and-Machine-Translation-systems)
