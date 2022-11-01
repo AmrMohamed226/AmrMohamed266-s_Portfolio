@@ -14,7 +14,7 @@
 <p align="center">
   <img src="images/sna_edgelist.png" alt="" width="150"/>
   <img src="images/sna_cd.png" alt="" width="150"/>
-  <img src="images/sna_betweeness.png" alt="" width="150"/>
+  <img src="images/sna_betweeness.png" alt="" width="160"/>
   <img src="images/sna_strength.png" alt="" width="150"/>
 </p>
 
