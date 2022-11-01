@@ -1,40 +1,33 @@
 # Welcome to Amr Mohamed's Portfolio
-# Project : 
+# [1.Statistical Case Study on Learners Engagements in MOOCs]():
+Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
+<img src="survival_analysis.png" alt="survival analysis" width="500"/>
 
-# Project : 
+# [2.Social Networks Analysis for French Higher Education System](): 
 
-# Project : 
+# [3.NLP and Machine Translation Systems](): 
 
-# Project : 
+# [4.Dating Website Profiles Analysis with Dimensionality Reduction and Clustering](): 
 
-# Project : 
+# [5.Sentiment Classification for Restaurant Reviews](): 
 
-# Project : 
+# [6.Adult-salary prediction and Random Forest investigation](): 
 
-# Project : 
+# [7.ML workflow and Decision Trees](): 
 
-# Project : 
+# [8.Perceptron and SVM implementation](): 
 
-# Project : 
+# [9.Movies Recommender System](): 
 
-# Project : 
+# [10.Text Mining and NLP for French Higher Education Theses Processing and Similarities Detection](): 
 
-# Project : 
+# [11.CNN for Brain Tumor Classification](): 
 
-# Project : 
+# [12.Diagnostic Systems for Breast Cancer Diagnosis](): 
 
-# Project : 
+# [13.Data Wrangling of French Higher Education Theses](): 
 
-# Project : 
+# [14.CNN for Vehicle detection]() : 
 
-# Project : 
-
-# Project : 
-
-# Project : 
-
-# Project : 
-
-# Project : 
-
-# Project : 
+# [15.Dialogue system and Question answering system]() : 
+![](/images/matrix_results.png)
