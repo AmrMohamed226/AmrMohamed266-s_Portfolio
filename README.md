@@ -34,14 +34,14 @@
 
 - Applied K-means and Hierarchical clustering techniques to cluster the data, and identify the similarities between the different data groups.
 <p align="center">
-  <img src="images/dr_1.png" alt="" width="200"/>
-  <img src="images/dr_2.png" alt="" width="200"/>
-  <img src="images/dr_3.png" alt="" width="220"/>
+  <img src="images/dr_1.png" alt="" width="180"/>
+  <img src="images/dr_2.png" alt="" width="180"/>
+  <img src="images/dr_3.png" alt="" width="200"/>
 </p>
 <p align="center">
-  <img src="images/dr_4.png" alt="" width="200"/>
-  <img src="images/dr_5.png" alt="" width="200"/>
-  <img src="images/dr_6.png" alt="" width="220"/>
+  <img src="images/dr_4.png" alt="" width="180"/>
+  <img src="images/dr_5.png" alt="" width="180"/>
+  <img src="images/dr_6.png" alt="" width="200"/>
 </p>
 
 # [5.Sentiment Classification for Restaurant Reviews:](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews)
