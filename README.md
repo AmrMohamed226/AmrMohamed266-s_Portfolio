@@ -2,7 +2,7 @@
 # [1.Statistical Case Study on Learners Engagements in MOOCs]():
 Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
 <p align="center">
-  <img src="images/survival_analysis.png" alt="survival analysis" width="550"/>
+  <img src="images/survival_analysis.png" alt="survival analysis" width="600"/>
 </p>
 # [2.Social Networks Analysis for French Higher Education System](): 
 
