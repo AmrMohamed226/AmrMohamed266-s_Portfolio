@@ -1,6 +1,7 @@
 # Welcome to Amr Mohamed's Portfolio
 # [1.Statistical Case Study on Learners Engagements in MOOCs:](https://github.com/AmrMohamed226/Statistical-Case-Study-on-Learners-Engagements-in-MOOCs)
 - Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. 
+
 - Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
 <p align="center">
   <img src="images/n_of_videos.png" alt="" width="600"/>
@@ -20,31 +21,27 @@
 
 # [3.NLP and Machine Translation Systems:](https://github.com/AmrMohamed226/NLP-and-Machine-Translation-systems)
 - Used European Parliament proceedings corpus of parallel text to apply different Natural Language Processing (NLP) Techniques such as N-gram models. 
-- Implemented IBM model-1 for Statistical Machine Translation was coded to calculate word allignment probabilities between from English to French Language corpuses. Implemented a decoding technique to decode the text back from French to English.
+
+- Implemented IBM model-1 for Statistical Machine Translation was coded to calculate word allignment probabilities between from English to French Language corpuses. 
+
+- Implemented a decoding technique to decode the text back from French to English.
 <p align="center">
-  <img src="images/NLP_MT.png" alt="" width="300"/>
+  <img src="images/NLP_MT.png" alt="" width="600"/>
 </p>
 
 # [4.Dating Website Profiles Analysis with Dimensionality Reduction and Clustering:](https://github.com/AmrMohamed226/Dating-website-profiles-analysis-with-Dimensionality-reduction-and-Clustering) 
 - Used a dataset of an mythical dating application was used to perform the different techniques of Dimensionality Reduction
+
 - Applied K-means and Hierarchical clustering techniques to cluster the data, and identify the similarities between the different data groups.
 <p align="center">
-  <img src="images/dr_1.png" alt="" width="300"/>
+  <img src="images/dr_1.png" alt="" width="200"/>
+  <img src="images/dr_2.png" alt="" width="200"/>
+  <img src="images/dr_3.png" alt="" width="220"/>
 </p>
 <p align="center">
-  <img src="images/dr_2.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/dr_3.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/dr_4.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/dr_5.png" alt="" width="300"/>
-</p>
-<p align="center">
-  <img src="images/dr_6.png" alt="" width="300"/>
+  <img src="images/dr_4.png" alt="" width="200"/>
+  <img src="images/dr_5.png" alt="" width="200"/>
+  <img src="images/dr_6.png" alt="" width="240"/>
 </p>
 
 # [5.Sentiment Classification for Restaurant Reviews:](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews)
@@ -53,7 +50,7 @@
 - Used restaurant reviews data that was annotated by 2 different annotators, present in the data in the annotation column as (annotator1/annotator2).
 - Calculated the percentage of disagreement between the annotators, and investigated the rows that had disagreements. 
 
--Trained and cross-validated several models, and hyper-parameter tuned the best performing models.
+- Trained and cross-validated several models, and hyper-parameter tuned the best performing models.
 
 - Evaluated the best performing model on the testing set using a confusion matrix along with Precision/Recall curves.
 
