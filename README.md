@@ -107,7 +107,9 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 
 # [10.Text Mining and NLP for French Higher Education Theses Processing and Similarities Detection:](https://github.com/AmrMohamed226/Text-Mining-and-NLP-for-French-Higher-Education-Theses-Processing-and-Similarities-Detection) 
 - Web-scraped 50 PhD theses that were defended in French higher institutions in form of PDFs from [theses.fr](https://theses.fr/).
+
 - Converted the PDFs to text files, detected their script languages, and  examined their scripts through TF-IDF vectorization and N-gram probabilities (bigrams, trigrams, and quadrigrams). 
+
 - Performed a document similarity analysis on a chosen 10 theses by calculating the cosine similarities between each document of the 10 and the rest.
 <p align="center">
   <img src="images/cosine_similarities_plot.png" alt="" width="600"/>
@@ -116,6 +118,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 
 # [11.CNN for Brain Tumor Classification:](https://github.com/AmrMohamed226/CNN-for-Brain-Tumor-Classification)
 - Implemented a convolutional neural network (CNN) for classifying brain tumors as healthy/tumorous based on X-ray image using the [Brian Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset) from Kaggle for model training, validation, and evaluation, where accuracies of 98.7%, 99.8%, and 99.6% were achieved on the training, validation, and testing datasets respectively. 
+
 - Used specifity, sensetivity, and precision metrics were used for model performance evaluation.
 <p align="center">
   <img src="images/brain1.png" alt="" width="600"/>
