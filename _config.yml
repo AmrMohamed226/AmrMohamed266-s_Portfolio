@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title-heading: false
+title: false
+title: nil
