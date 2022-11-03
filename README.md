@@ -1,5 +1,7 @@
 
-<img src="images/fcf7fd0c619bb87706533079240915f3.gif" alt="" width="650"/>
+<p align="center">
+<img src="images/background.gif" alt="" width="650"/>
+</p>
 <h1 align="center">Recent Data Science and Machine Learning Projects</h1>
 
 # [1.Statistical Case Study on Learners Engagements in MOOCs:](https://github.com/AmrMohamed226/Statistical-Case-Study-on-Learners-Engagements-in-MOOCs)
