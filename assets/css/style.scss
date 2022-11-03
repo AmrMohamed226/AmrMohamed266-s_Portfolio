@@ -10,3 +10,13 @@ footer {
 .btn {
   display: none !important;
 }
+.rounded{
+  border-radius: 7px;
+  overflow: hidden;
+}
+.border{
+  border-left: 6px solid blue;
+  width: 100px;
+  height: 70px;
+  background: lightgray;
+}
