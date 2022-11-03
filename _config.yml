@@ -3,3 +3,5 @@ title-heading: false
 name: Amr's Portfolio
 title: "Amr Mohamed's Porfolio"
 show_downloads: false
+github:
+  is_project_page: false
