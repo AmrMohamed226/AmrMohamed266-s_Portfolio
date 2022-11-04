@@ -1,6 +1,19 @@
 <p align="center">
 <img src="images/background.gif" alt="" width="650"/>
 </p>
+<h1 align="center">About me</h1>
+<p align="center">
+I am a 4th year Bachelor's student in Data Science at CY Tech (exEISTI) with a professional experience of 2 internships. I am looking for
+an end-of-studies (4-5 months) internship in Data Science starting
+from the end of March/start of April 2023 to obtain my Bachelor's
+with the possibility of extending it to an apprenticeship to obtain the
+French Engineering Diploma in 2024
+</p>
+
+<h1 align="center">Contact me</h1>
+<p align="center">
+</p>
+
 <h1 align="center">Recent Data Science and Machine Learning Projects</h1>
 
 # [1.Statistical Case Study on Learners Engagements in MOOCs:](https://github.com/AmrMohamed226/Statistical-Case-Study-on-Learners-Engagements-in-MOOCs)
