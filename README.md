@@ -11,8 +11,12 @@ French Engineering Diploma in 2024
 </p>
 
 <h1 align="center">Contact me</h1>
-<p align="center">
-</p>
+
+  **E-mail:** amrabdelraheem9@gmail.com
+  
+  **GitHub:** [Amr Mohamed](https://github.com/AmrMohamed226)
+  
+  **LinkedIn:** [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/)
 
 <h1 align="center">Recent Data Science and Machine Learning Projects</h1>
 
