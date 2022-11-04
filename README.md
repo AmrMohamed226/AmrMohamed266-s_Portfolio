@@ -35,16 +35,21 @@
 - Used a dataset of an mythical dating application was used to perform the different techniques of Dimensionality Reduction
 
 - Applied K-means and Hierarchical clustering techniques to cluster the data, and identify the similarities between the different data groups.
-<p align="center">
-  <img src="images/dr_4.png" alt="" width="200"/>
-  <img src="images/dr_2.png" alt="" width="205"/>
-  <img src="images/dr_3.png" alt="" width="220"/>
-</p>
-<p align="center">
-  <img src="images/dr_1.png" alt="" width="200"/>
-  <img src="images/dr_5.png" alt="" width="190"/>
-  <img src="images/dr_6.png" alt="" width="220"/>
-</p>
+<div class="rounded"> 
+  <div class="border">
+  <p align="center">
+    <img src="images/dr_4.png" alt="" width="200"/>
+    <img src="images/dr_2.png" alt="" width="205"/>
+    <img src="images/dr_3.png" alt="" width="220"/>
+  </p>
+  <p align="center">
+    <img src="images/dr_1.png" alt="" width="200"/>
+    <img src="images/dr_5.png" alt="" width="190"/>
+    <img src="images/dr_6.png" alt="" width="220"/>
+  </p>
+  </div>
+</div>
+
 
 # [5.Sentiment Classification for Restaurant Reviews:](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews)
 - Implemented a sentiment classification system to classify restaurants reviews as positive/negative in a supervised learning setting.
