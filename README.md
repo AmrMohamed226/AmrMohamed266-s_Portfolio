@@ -10,9 +10,9 @@
 
   **E-mail:** amrabdelraheem9@gmail.com
   
-  **GitHub:** [Amr Mohamed](https://github.com/AmrMohamed226)
-  
   **LinkedIn:** [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/)
+  
+  **GitHub:** [Amr Mohamed](https://github.com/AmrMohamed226)
 
 <h1 align="center">Recent Data Science and Machine Learning Projects</h1>
 
