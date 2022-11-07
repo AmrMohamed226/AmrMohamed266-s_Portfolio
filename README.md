@@ -196,3 +196,20 @@ The dialogue system work-flow is the following:
  **Step 5**: If the AI understood the question, it grounds, else, it asks for question re-formalization.<br>
  **Step 6**: AI gets and displays the requested information, and asks if the user has other requests.<br>
  **Step 7**: If the user doesn't have other requests, the AI greets and ends the conversation, else the AI goes back to **Step 3**.
+
+
+# [16.University Graph DBMS:](https://github.com/AmrMohamed226/University-DBMSs/tree/main/All_DBs)
+- Casted an ER diagram to a RDF schema using **Protégé**.
+- Used a relational database tables to construct 2 different Graph DBMSs using (**Neo4j and GraphDB**).
+<div class="rounded"> 
+  <div class="border">
+  <p align="center">
+    <img src="images/db1.png" alt="" width="200"/>
+    <img src="images/db2.png" alt="" width="165"/>
+  </p>
+  <p align="center">
+    <img src="images/db3.png" alt="" width="200"/>
+    <img src="images/db4.png" alt="" width="200"/>
+  </p>
+  </div>
+</div>
