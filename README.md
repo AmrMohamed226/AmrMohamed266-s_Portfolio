@@ -146,7 +146,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 # [12.Diagnostic Systems for Breast Cancer Diagnosis:](https://github.com/AmrMohamed226/Diagnostic-Systems-for-Breast-Cancer-Diagnosis)
 - Used [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) to build a breast cancer benign/malignant classifier model.
 
-- Used [Carsten Eickhoff 2016](https://dl.acm.org/doi/pdf/10.1145/2594776.2594788?casa_token=GMtjoBep2nkAAAAA:7n4D47l-D5yDvNTHgw8KBqQwQd03KuJnYy3hXhBTKqv940MklIJFSsM0wuF4JA1wnL0qv3K3YDp_7g) paper was used to gain some domain expertise to help in understanding the physical differences between a benign and a malignant tumor.
+- Used [Carsten Eickhoff 2016](https://dl.acm.org/doi/pdf/10.1145/2594776.2594788?casa_token=GMtjoBep2nkAAAAA:7n4D47l-D5yDvNTHgw8KBqQwQd03KuJnYy3hXhBTKqv940MklIJFSsM0wuF4JA1wnL0qv3K3YDp_7g) paper was to gain some domain expertise for understanding the physical differences between a benign and a malignant tumor.
 
 - Tackled the interpretability problem in detail by using 3 predictor models with 3 different levels of interpretability.
 
