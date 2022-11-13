@@ -117,7 +117,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 </p>
 
 
-# [8.Perceptron and SVM implementation:](https://github.com/AmrMohamed226/Perceptron-and-SVM-implementation/edit/main/README.md)
+# [8.Perceptron and SVM implementation:](https://github.com/AmrMohamed226/Perceptron-and-SVM-implementation/)
 
 - Implemented the Pegasos algorithm for training support vector classifiers using OOP including the implementation of its hinge loss function for sentiment data classification of customer reviews on music albums as positive or negative. In addition, the Logistic regression model was implemented using OOP including the log loss function on the same data.
 
