@@ -20,6 +20,8 @@
 - Performed a statistical case studyon a real-life dataset of learners' engagement behavior in a MOOC. 
 
 - Analyzed the learners' genders, countries' Human Development Index (HDI), and socioeconomic status effect on their engagement behavior through a vareity of statistical techniques including a survival analysis.
+
+[**Full project's report**](https://github.com/AmrMohamed226/Statistical-Case-Study-on-Learners-Engagements-in-MOOCs/blob/main/MOOC_disengagments%20report.pdf)
 <p align="center">
   <img src="images/n_of_videos.png" alt="" width="600"/>
 </p>
@@ -47,6 +49,8 @@
 - Used a dataset of an mythical dating application was used to perform the different techniques of Dimensionality Reduction
 
 - Applied K-means and Hierarchical clustering techniques to cluster the data, and identify the similarities between the different data groups.
+
+[**Full project's report**](https://github.com/AmrMohamed226/Dating-website-profiles-analysis-with-Dimensionality-reduction-and-Clustering/blob/main/DR%20techniques%20for%20Profile%20analysis.pdf)
 <div class="rounded"> 
   <div class="border">
   <p align="center">
@@ -74,7 +78,7 @@
 - Evaluated the best performing model on the testing set using a confusion matrix along with Precision/Recall curves.
 
 - Investigated the features (words) highest contributing to the model preddictive power for model interpretability.
-
+[**Full project's report**](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews/blob/main/Sentiment%20Classification%20for%20Restaurant%20Reviews.pdf)
 <p align="center">
   <img src="images/sent1.png" alt="" width="300"/>
   <img src="images/sent2.png" alt="" width="280"/>
@@ -160,7 +164,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 - Web scraped, Analyzed, and applied data wrangling techniques on a of Ph.D. theses that were defended in France between the years 1971 and 2020.
 
 - Preprocessed, cleaned, and spotted abnormalities and outliers in the data, and drew and tested assumptions using Data visualization and statistical methods.
-
+[**Full project's report**](https://github.com/AmrMohamed226/Data-Wrangling-of-French-Higher-Education-Theses/blob/main/Data%20Wrangling%20project%20report.pdf)
 <p align="center">
   <img src="images/dw1.png" alt="" width="600"/>
 </p>
