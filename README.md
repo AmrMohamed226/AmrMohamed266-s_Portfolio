@@ -166,6 +166,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 - Web scraped, Analyzed, and applied data wrangling techniques on a of Ph.D. theses that were defended in France between the years 1971 and 2020.
 
 - Preprocessed, cleaned, and spotted abnormalities and outliers in the data, and drew and tested assumptions using Data visualization and statistical methods.
+
 [**Full project's report**](https://github.com/AmrMohamed226/Data-Wrangling-of-French-Higher-Education-Theses/blob/main/Data%20Wrangling%20project%20report.pdf)
 <p align="center">
   <img src="images/dw1.png" alt="" width="600"/>
