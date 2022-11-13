@@ -78,7 +78,7 @@
 - Evaluated the best performing model on the testing set using a confusion matrix along with Precision/Recall curves.
 
 - Investigated the features (words) highest contributing to the model preddictive power for model interpretability.
-- 
+
 [**Full project's report**](https://github.com/AmrMohamed226/Sentiment-Classification-for-Restaurant-Reviews/blob/main/Sentiment%20Classification%20for%20Restaurant%20Reviews.pdf)
 
 <p align="center">
