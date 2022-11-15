@@ -110,7 +110,7 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 
 - Trained cross-validated, and hyper-parameter tuned plenty of models for each set to find the best-performing model for each of the two problems.
 
-- Implemented Decision Tree classes using OOP for each classification and regression setting, and investigated their viability to underfitting/overfitting and plotting to graph them for more interpretability.
+- Implemented Decision Tree classes using OOP for each classification and regression setting, investigated their viability to underfitting/overfitting, and graphed the tress for higher interpretability.
 
 <p align="center">
   <img src="images/dt1.png" alt="" width="600"/>
