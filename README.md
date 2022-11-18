@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">About me</h1>
 <p align="center">
-<strong>I am a fourth year Bachelor's ()ING-2 student in Data Science at CY Tech (ex-EISTI) with a professional experience of 2 internships. I am looking for an end-of-studies 5 months internship in Data Science starting from the end of March/start of April 2023 to obtain my Bachelor's with the possibility of extending it to an apprenticeship to obtain the French Engineering Diploma in 2024</strong>
+<strong>I am a fourth year Bachelor's (ING-2) student in Data Science at CY Tech (ex-EISTI) with a professional experience of 2 internships. I am looking for an end-of-studies 5 months internship in Data Science starting from the end of March/start of April 2023 to obtain my Bachelor's with the possibility of extending it to an apprenticeship to obtain the French Engineering Diploma in 2024</strong>
 </p>
 
 <h1 align="center">Contact me</h1>
