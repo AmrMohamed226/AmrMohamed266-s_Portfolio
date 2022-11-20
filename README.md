@@ -41,7 +41,7 @@
 # [3.NLP and Machine Translation Systems:](https://github.com/AmrMohamed226/NLP-and-Machine-Translation-systems)
 - Used European Parliament proceedings corpus of parallel text to apply different Natural Language Processing (NLP) Techniques such as N-gram models. 
 
-- Implemented IBM model-1 for Statistical Machine Translation was coded to calculate word allignment probabilities between from English to French Language corpuses. 
+- Implemented IBM model-1 for Statistical Machine Translation to calculate word allignment probabilities between from English to French Language corpuses. 
 
 - Implemented a decoding technique to decode the text back from French to English.
 
