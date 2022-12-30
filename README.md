@@ -142,9 +142,9 @@ Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) to predict whether
 
 
 # [11.CNN for Brain Tumor Classification:](https://github.com/AmrMohamed226/CNN-for-Brain-Tumor-Classification)
-- Implemented a convolutional neural network (CNN) for classifying brain tumors as healthy/tumorous based on X-ray image using the [Brian Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset) from Kaggle for model training, validation, and evaluation, where accuracies of 98.7%, 99.8%, and 99.6% were achieved on the training, validation, and testing datasets respectively. 
+- Implemented a convolutional neural network (CNN) for classifying brain tumors as healthy/tumorous based on X-ray image using the [Brain Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset) from Kaggle for model training, validation, and evaluation, where accuracies of 98.7%, 99.8%, and 99.6% were achieved on the training, validation, and testing datasets respectively. 
 
-- Used specifity, sensetivity, and precision metrics were used for model performance evaluation.
+- Used specifity, sensitivity, and precision metrics were used for model performance evaluation.
 <p align="center">
   <img src="images/brain1.png" alt="" width="600"/>
 </p>
