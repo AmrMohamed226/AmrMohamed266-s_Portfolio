@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">About me</h1>
 <p align="center">
-<strong>I am a fourth year engineering student (ING-2) in Data Science and AI at CY Tech (ex-EISTI) with a professional experience from 2 internships. I am looking for an 1-year apprenticeship starting from September 2023 in the domain of Data Science/AI</strong>
+<strong>I am a fourth year engineering student (ING-2) in Data Science and AI at CY Tech (ex-EISTI) with a professional experience from 3 internships.</strong>
 </p>
 
 <h1 align="center">Contact me</h1>
